@@ -75,3 +75,5 @@ How I approached it:
 * For UI enhancements, explored the template structure and safely extended base.html without breaking layout logic.
 
 This approach helped balance legacy compatibility with modern improvements like responsive design and interactive inputs.
+
+**Note: for screen shots please view Screenshots.docx
