@@ -16,8 +16,8 @@ Gestalt’s Design Principles are well known in the designer community as they d
 
 I have tried my best to de-clutter the design and put forth the functionalities of the application.
 
-
-   * How did you ensure responsiveness across devices?
+* How did you ensure responsiveness across devices?
+  
 To ensure responsiveness, I used the Bootstrap framework, which provides:
    * Mobile-First Design: Optimized first for smaller screens, then scales up using media queries.
 
@@ -29,6 +29,7 @@ To ensure responsiveness, I used the Bootstrap framework, which provides:
 
 
 * What trade-offs did you make between the design and performance?
+  
 Trade-offs between design and performance:
 To enhance the user experience, we incorporated rich UI elements like:
   * Background images
@@ -57,6 +58,7 @@ These improvements increase visual appeal and usability, but come with trade-off
 Overall, we prioritized accessibility and clarity of information while keeping performance degradation minimal and acceptable for a modern web environment.
 
 * What was the most challenging part of the task and how did you approach it?
+  
 The biggest challenge was understanding and navigating an existing Django codebase (FOSSEE Workshop Booking System) that had limited documentation and used older Django syntax (e.g., url() instead of path()), which caused compatibility issues with newer Django versions.
 How I approached it:
 * Carefully traced the views, forms, and models to understand the workflow.
